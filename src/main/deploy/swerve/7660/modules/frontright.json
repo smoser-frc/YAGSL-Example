@@ -20,7 +20,7 @@
         "type": "cancoder"
     },
     "inverted": {
-        "angle": true,
+        "angle": false,
         "drive": true
     },
     "location": {

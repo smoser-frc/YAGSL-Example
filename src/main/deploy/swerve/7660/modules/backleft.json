@@ -20,8 +20,8 @@
         "type": "cancoder"
     },
     "inverted": {
-        "angle": true,
-        "drive": false
+        "angle": false,
+        "drive": true
     },
     "location": {
         "front": -15,
