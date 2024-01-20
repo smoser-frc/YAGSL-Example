@@ -340,7 +340,7 @@ public class SwerveSubsystem extends SubsystemBase
                                                         yInput,
                                                         headingX,
                                                         headingY,
-                                                        getHeading().getRadians(),
+                                                        -getHeading().getRadians(),
                                                         maximumSpeed);
   }
 
